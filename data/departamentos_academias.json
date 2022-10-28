@@ -1,0 +1,242 @@
+{
+  "Departamento de Biotecnologia": [
+    {
+      "id": 1,
+      "nombre": "Biotecnologia",
+      "descripcion": "Biotecnologia",
+      "id_facultad": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Bioquimica",
+      "descripcion": "Bioquimica",
+      "id_facultad": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Microbiologia",
+      "descripcion": "Microbiologia",
+      "id_facultad": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Biorremedación",
+      "descripcion": "Biorremedación",
+      "id_facultad": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Cultiva de celulas y tejidos",
+      "descripcion": "Cultiva de celulas y tejidos vegatales",
+      "id_facultad": 1
+    },
+    {
+      "id": 6,
+      "nombre": "Industria alimentaria",
+      "descripcion": "Industria alimentaria",
+      "id_facultad": 1
+    },
+    {
+      "id": 7,
+      "nombre": "Procesos de fermentación",
+      "descripcion": "Procesos de fermentación",
+      "id_facultad": 1
+    }
+  ],
+  "Departamento de Ciencias Naturales y de la Salud": [
+    {
+      "id": 1,
+      "nombre": "Química",
+      "descripcion": "Química",
+      "id_facultad": 2
+    },
+    {
+      "id": 2,
+      "nombre": "Fisica",
+      "descripcion": "Fisica",
+      "id_facultad": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Biologia",
+      "descripcion": "Biologia",
+      "id_facultad": 2
+    },
+    {
+      "id": 5,
+      "nombre": "Bienestar Individual y Social",
+      "descripcion": "Bienestar individual y salud",
+      "id_facultad": 2
+    }
+  ],
+  "Departamento de Tecnologías de Comunicaciones": [
+    {
+      "id": 1,
+      "nombre": "Redes de Telecomunicaciones",
+      "descripcion": "Redes de Telecomunicaciones",
+      "id_facultad": 3
+    },
+    {
+      "id": 2,
+      "nombre": "Instrumetación",
+      "descripcion": "Instrumetación",
+      "id_facultad": 3
+    },
+    {
+      "id": 3,
+      "nombre": "Operación y Manteimiento",
+      "descripcion": "Operación y Manteimiento",
+      "id_facultad": 3
+    }
+  ],
+  "Departamento de Emprendimiento y Liderazgo": [
+    {
+      "id": 1,
+      "nombre": "Desarrollo Personal",
+      "descripcion": "Desarrollo Personal",
+      "id_facultad": 4
+    },
+    {
+      "id": 2,
+      "nombre": "Excelencia empresarial",
+      "descripcion": "Excelencia empresarial",
+      "id_facultad": 4
+    }
+  ],
+  "Departamento de Comunicación y Aprendizaje": [
+    {
+      "id": 1,
+      "nombre": "Lengua y Literatura",
+      "descripcion": "Lengua y Literatura",
+      "id_facultad": 5
+    },
+    {
+      "id": 2,
+      "nombre": "Lengua Extranjera",
+      "descripcion": "Lengua Extranjera",
+      "id_facultad": 5
+    },
+    {
+      "id": 3,
+      "nombre": "Habilidades cognitivas",
+      "descripcion": "Habilidades cognitivas",
+      "id_facultad": 5
+    }
+  ],
+  "Departamento de Computación Aplicada": [
+    {
+      "id": 1,
+      "nombre": "Programas Informáticos",
+      "descripcion": "Programas Informáticos",
+      "id_facultad": 6
+    },
+    {
+      "id": 2,
+      "nombre": "Ensamble y Sistemas Operativos",
+      "descripcion": "Ensamble y Sistemas Operativos",
+      "id_facultad": 6
+    },
+    {
+      "id": 3,
+      "nombre": "Redes de cómputo",
+      "descripcion": "Redes de cómputo",
+      "id_facultad": 6
+    },
+    {
+      "id": 4,
+      "nombre": "Programación y Diseño",
+      "descripcion": "Programación y Diseño",
+      "id_facultad": 6
+    }
+  ],
+  "Departamento de Gestión Administrativa": [
+    {
+      "id": 1,
+      "nombre": "Contable Fiscal",
+      "descripcion": "Contable Fiscal",
+      "id_facultad": 7
+    },
+    {
+      "id": 2,
+      "nombre": "Servicios Comeraciales",
+      "descripcion": "Servicios Comeraciales",
+      "id_facultad": 7
+    },
+    {
+      "id": 3,
+      "nombre": "Cadenas Logísticas",
+      "descripcion": "Cadenas Logísticas",
+      "id_facultad": 7
+    },
+    {
+      "id": 4,
+      "nombre": "Comercio Internacional",
+      "descripcion": "Comercio Internacional",
+      "id_facultad": 7
+    },
+    {
+      "id": 5,
+      "nombre": "Manejo y archivo de documentos",
+      "descripcion": "Manejo y archivo de documentos",
+      "id_facultad": 7
+    },
+    {
+      "id": 6,
+      "nombre": "Gestión de la Información",
+      "descripcion": "Gestión de la Información",
+      "id_facultad": 7
+    },
+    {
+      "id": 7,
+      "nombre": "Recursos Humanos",
+      "descripcion": "Recursos Humanos",
+      "id_facultad": 7
+    },
+    {
+      "id": 8,
+      "nombre": "Administración Financiera",
+      "descripcion": "Administración Financiera",
+      "id_facultad": 7
+    }
+  ],
+  "Departamento de Energías Renovables": [
+    {
+      "id": 1,
+      "nombre": "Sistemas fotovoltaicos",
+      "descripcion": "Sistemas fotovoltaicos",
+      "id_facultad": 8
+    },
+    {
+      "id": 2,
+      "nombre": "Sistemas Térmicos Solares",
+      "descripcion": "Sistemas Térmicos Solares",
+      "id_facultad": 8
+    },
+    {
+      "id": 3,
+      "nombre": "Sistemas Eólicos",
+      "descripcion": "Sistemas Eólicos",
+      "id_facultad": 8
+    }
+  ],
+  "Departamento de Manufactura Industrial": [
+    {
+      "id": 1,
+      "nombre": "Aseguramiento de la calidad",
+      "descripcion": "Aseguramiento de la calidad",
+      "id_facultad": 9
+    },
+    {
+      "id": 2,
+      "nombre": "Manufactura Industrial",
+      "descripcion": "Manufactura Industrial",
+      "id_facultad": 9
+    }
+  ],
+  "Servicios Educativos": {
+    "id": 1,
+    "nombre": "Tutorías",
+    "descripcion": "Tutorías",
+    "id_facultad": 10
+  }
+}
